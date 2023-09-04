@@ -1,4 +1,7 @@
-![Profile Banner](gojo.gif)
+<p align="center">
+  <img src="https://github.com/liamincyber/liamincyber/blob/main/assets/gojo.gif" alt="Profile Banner" width="100%">
+</p>
+
 
 ## About Me
 
