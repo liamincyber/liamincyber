@@ -1,6 +1,4 @@
-# Liam Sterling
-
-![Profile Banner](profile_banner.png)
+![Profile Banner](gojo.gif)
 
 ## About Me
 
